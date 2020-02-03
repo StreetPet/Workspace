@@ -4,3 +4,6 @@
 [submodule "Firebase"]
 	path = Firebase
 	url = https://github.com/StreetPet/Firebase
+[submodule "Jekyll"]
+	path = Jekyll
+	url = https://github.com/StreetPet/Jekyll
