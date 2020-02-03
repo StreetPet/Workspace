@@ -1,0 +1,6 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/StreetPet/Angular
+[submodule "Firebase"]
+	path = Firebase
+	url = https://github.com/StreetPet/Firebase
